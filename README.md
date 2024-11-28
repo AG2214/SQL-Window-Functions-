@@ -1,15 +1,5 @@
 ### 30 SQL QUESTIONS ON WINDOW FUNCTIONS: BASICS TO ADVANCED LEVEL
 
-- **Key Concepts**: Understand how window functions differ from standard aggregates.
-- **Real-World Datasets**: Work with practical datasets focusing on `ROW_NUMBER`, `RANK`, `LEAD`, and `LAG`.
-- **Hands-On Problems**: Solve curated challenges from basic to advanced levels.
-- **Step-by-Step Solutions**: Follow clear explanations for each problem.
-
-Want to dive deeper? Join our **Live SQL A-Z Workshop**! Over **3 days and 15 hours**, learn SQL comprehensively and complete two live projects.
-
-[**Join Our Live SQL Workshop!**]
-
----
 
 ### 1. **Dataset 1: Employee Salaries**
 
