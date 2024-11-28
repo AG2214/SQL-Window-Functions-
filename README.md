@@ -7,7 +7,7 @@
 
 Want to dive deeper? Join our **Live SQL A-Z Workshop**! Over **3 days and 15 hours**, learn SQL comprehensively and complete two live projects.
 
-[**Join Our Live SQL Workshop!**](https://zeroanalyst.com/course/)
+[**Join Our Live SQL Workshop!**]
 
 ---
 
